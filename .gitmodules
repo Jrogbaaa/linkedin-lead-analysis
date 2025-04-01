@@ -1,0 +1,4 @@
+[submodule "linkedin-lead-analysis"]
+    path = linkedin-lead-analysis
+    url = https://example.com/non-existent-repo.git
+    ignore = all
